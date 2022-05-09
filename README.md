@@ -8,12 +8,12 @@ Given a file full of tweets and a list of racial slurs, calculate the degree of 
 <h2>B. Inputs Description</h2>
 <p>
   <ol>
-    <li>A file containing Twitter user and their tweets such that each line contains one Twitter user and tweets. </li><br />
-    <li>Comma separated words as a list of slurs </li>
+    <li>A file containing Twitter user and their tweets such that each line contains one Twitter user and tweets - tweets.csv </li><br />
+    <li>Comma separated words as a list of slurs  - color, discriminate, white, black</li>
    </ol>
 </p>
 
 <h2>C. Output Description</h2> 
 <p>
-A CSV file with 6 columns: Tweets, User, Slur Words, Total Words, Slurs Count, and Deg. Profanity.
+A CSV file with 6 columns: Tweets, User, Slur Words, Total Words, Slurs Count, and Deg. Profanity - degree_of_profanity.csv
 </p>
